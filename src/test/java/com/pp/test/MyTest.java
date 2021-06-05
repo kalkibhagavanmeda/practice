@@ -19,7 +19,7 @@ public class MyTest extends TestCase {
    
      public void testAdd1(){
       double result = value1 * value2;
-      assertTrue(result == 9);
+      assertTrue(result == 10);
    }
   /* public void testSub(){
       double result = value1 - value2;
